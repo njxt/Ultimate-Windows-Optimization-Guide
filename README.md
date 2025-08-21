@@ -1,4 +1,4 @@
-- ChrisTitusTech Tool: https://github.com/ChrisTitusTech/winutil
+Alte optimizari: https://rentry.co/67xxpvs5
 
 ## Guide
 [Video](<https://youtu.be/PlACZ9Gp1xo>)
